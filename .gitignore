@@ -1,0 +1,10 @@
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+
+#pytest
+.pytest_cache/
+.coverage
+htmlcov/
+test-report.html/
