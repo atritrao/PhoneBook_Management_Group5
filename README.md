@@ -58,14 +58,6 @@ Bash
 docker run --rm phonebook-app pytest
 ```
 
-### Generate HTML Report
-```
-Bash
-
-docker run --rm -v ${PWD}/SourceCode:/app phonebook-app pytest --html=Unit_Testing_Repor
-```
-
-```
 ProgAndTest_Group05/
 │
 ├── SourceCode/
